@@ -8,6 +8,7 @@ namespace Part73DictionalyExamples
         {
             Customer c1 = new Customer()
             {
+                //variables value assignments 
                 Id=101,
                 Name="Shubham"
             };
